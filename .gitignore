@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.db
+*.db-journal
+# derived: rebuild with `python build_index.py`
+backend/index.npz

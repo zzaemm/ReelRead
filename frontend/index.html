@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <!-- viewport-fit=cover lets us paint under the notch; we pad with env(safe-area-inset-*) in CSS -->
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>ReelRead</title>
+  <meta name="description" content="Swipe through short Wikipedia reads on the topics you pick.">
+  <meta name="theme-color" content="#141c2a" media="(prefers-color-scheme: dark)">
+  <meta name="theme-color" content="#eef1f5" media="(prefers-color-scheme: light)">
+  <meta name="color-scheme" content="dark light">
+  <link rel="manifest" href="/manifest.webmanifest">
+  <link rel="icon" href="/icons/icon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="/icons/icon-192.png">
+  <link rel="stylesheet" href="/style.css">
+  <!-- CSP: script-src 'self' — one external script, no inline JS anywhere. -->
+  <script src="/app.js" defer></script>
+</head>
+<body>
+  <div class="app" id="app">
+
+    <!-- Boot: shown until we know whether the user has a session. -->
+    <section class="screen screen-boot" id="screen-boot" aria-label="Loading">
+      <div class="spinner" aria-hidden="true"></div>
+      <p class="sr-only">Loading ReelRead</p>
+    </section>
+
+    <!-- Fatal error (e.g. offline on first load). -->
+    <section class="screen screen-message" id="screen-error" hidden>
+      <div class="message">
+        <h1 class="message-title" id="error-title">Can't reach ReelRead</h1>
+        <p class="message-body" id="error-body">Check your connection, then try again.</p>
+        <button type="button" class="btn btn-primary" id="error-retry">Try again</button>
+      </div>
+    </section>
+
+    <!-- Onboarding / topic picker. Also reused for "change topics". -->
+    <section class="screen screen-onboard" id="screen-onboard" hidden aria-labelledby="onboard-title">
+      <div class="onboard">
+        <div class="onboard-head">
+          <p class="wordmark wordmark-large" aria-hidden="true">ReelRead</p>
+          <h1 class="onboard-title" id="onboard-title">Short reads from Wikipedia, one swipe at a time.</h1>
+          <p class="onboard-sub" id="onboard-sub">Pick up to five topics. The feed learns from what you linger on.</p>
+        </div>
+
+        <div class="topic-picker" id="topic-picker" role="group" aria-labelledby="onboard-title">
+          <!-- chips are built by app.js -->
+        </div>
+        <p class="onboard-status" id="onboard-status" role="status" aria-live="polite"></p>
+
+        <div class="onboard-actions">
+          <button type="button" class="btn btn-ghost" id="onboard-cancel" hidden>Cancel</button>
+          <button type="button" class="btn btn-primary" id="onboard-start" disabled>Start reading</button>
+        </div>
+      </div>
+    </section>
+
+    <!-- Feed -->
+    <section class="screen screen-feed" id="screen-feed" hidden aria-label="Reading feed">
+      <header class="feed-bar">
+        <span class="wordmark">ReelRead</span>
+        <button type="button" class="btn btn-bar" id="btn-topics">Topics</button>
+      </header>
+      <main class="feed" id="feed" tabindex="-1">
+        <!-- items are appended by app.js -->
+      </main>
+      <p class="toast" id="toast" role="status" aria-live="polite" hidden></p>
+    </section>
+
+  </div>
+</body>
+</html>

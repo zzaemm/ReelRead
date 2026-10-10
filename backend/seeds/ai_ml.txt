@@ -1,0 +1,400 @@
+A* search algorithm
+ADALINE
+AI Memo
+AI bubble
+AI control problem
+AI nationalism
+AI warfare
+AIBO
+AIVA
+ALOPEX
+Accuracy paradox
+Adaptive Behavior (journal)
+Aidan Gomez
+Alex Graves (computer scientist)
+Algorithm selection
+Allen Newell
+AlphaZero
+Analogical modeling
+Andrei Knyazev (mathematician)
+Angel F
+Apache MXNet
+Apache Mahout
+Apache SINGA
+Apache Singa
+Aphelion (software)
+Applications of artificial intelligence
+Armin B. Cremers
+Arnold Rimmer
+Artificial intelligence art
+Artificial intelligence in music
+Artificial life
+Ash (Alien)
+Attractor network
+Aurora (text-to-image model)
+Automated theorem proving
+Automatic taxonomy construction
+Autonomic Computing
+Autoregressive model
+Backpropagation
+Backward chaining
+Baidu
+Batch learning
+Batch normalization
+Bayesian learning
+Bayesian statistics
+Ben Goertzel
+Bernard Widrow
+Bernoulli scheme
+Best-first search
+Biclustering
+Bioinformatics
+Biomedical informatics
+Blackboard system
+Blue Brain Project
+Boston Dynamics
+Bradley–Terry model
+Braina
+Breadth-first search
+Brute force search
+CALO
+CHAPPiE
+Canonical correlation analysis
+Canonical correspondence analysis
+Case based reasoning
+Causal Markov condition
+CellCognition
+Cellular evolutionary algorithm
+Chatbot psychosis
+Chi-square automatic interaction detection
+Chris Moriarty
+Closed world assumption
+Clustering high-dimensional data
+Coefficient of determination
+Cognitive
+Cognitive architecture
+Combs method
+Complete-linkage clustering
+Computational propaganda
+Computer Audition
+Concept mining
+Conceptual clustering
+Connect (computer system)
+Consciousness
+Constraint satisfaction
+Control system
+Cortana (software)
+Cross-entropy method
+Cross-validation (statistics)
+Cultural consensus theory
+Culture series
+Cybernetics
+Cylon (Battlestar Galactica)
+DADiSP
+DARPA LAGR Program
+DBpedia
+Darkforest
+Dartmouth workshop
+Data Pre-processing
+Data exploration
+Data pre-processing
+Data stream clustering
+Decision network
+Decision stump
+Decision tree
+Deep learning speech synthesis
+Default logic
+Dehaene–Changeux model
+Density estimation
+Depth-first search
+Description logic
+Differential evolution
+Diffusion model
+DistBelief
+Dlib
+Dreyfus' critique of AI
+Dynamic Bayesian network
+Dynamic time warping
+Effective fitness
+Elastic map
+Elastic matching
+Email filtering
+Embodied cognition
+Environmental impact of artificial intelligence
+Eric Xing
+European Neural Network Society
+Evolutionary algorithm
+Evolutionary music
+Evolver (software)
+Expectation-maximization algorithm
+Explainable artificial intelligence
+Explanation based learning
+Exploratory factor analysis
+F1 score
+Factor analysis of mixed data
+Factor graph
+Farthest-first traversal
+Feature scaling
+Fish School Search
+Forward–backward algorithm
+Frank Herbert
+François Chollet
+Friendly AI
+Fuzzy Logic
+Gaussian Naive Bayes
+Gaussian process emulator
+Gene prediction
+General Architecture for Text Engineering
+Generalized filtering
+Generative model
+Genetic algorithms in economics
+Genetic fuzzy systems
+Genetic operator
+Genie (world model)
+Geographical cluster
+Gesture Description Language
+Ghost in the Shell
+Global catastrophic risk
+Glottochronology
+Google DeepMind
+Google Now
+Google matrix
+Grammar induction
+Graph neural network
+Greg Egan
+Group method of data handling
+Growth function
+Hallucination (artificial intelligence)
+Hands-On Machine Learning Scikit-Learn, Keras, and TensorFlow
+Hans Moravec
+Hard problem of consciousness
+Hartmut Neven
+Hebbian theory
+Her (2013 film)
+Herbert A. Simon
+Hidden Markov model
+Hierarchical classifier
+Hierarchical hidden Markov model
+Hopfield network
+Hyper basis function network
+IEEE Intelligent Systems
+Ilastik
+Ilya Sutskever
+Inauthentic text
+Inductive bias
+Inductive logic programming
+Information Harvesting
+Information gain ratio
+Intelligent control
+Intelligent personal assistant
+International Joint Conference on Artificial Intelligence
+International Joint Conferences on Artificial Intelligence
+International Semantic Web Conference
+Investment Counselor (short story)
+Island algorithm
+Isolation forest
+Jacek M. Zurada
+Jackknife variance estimates for random forest
+Jaime Carbonell
+Journal of Machine Learning Research
+Jubatus
+Julia (programming language)
+K q-flats
+K-SVD
+KXEN Inc.
+Karl Steinbuch
+Katia Sycara
+Kernel eigenvoice
+Kernel methods
+Kernel principal component analysis
+Kneser–Ney smoothing
+Knowledge-based system
+Language creation in artificial intelligence
+LanguageWare
+Latent semantic analysis
+Least squares support vector machine
+Least-angle regression
+Linear classifier
+Lise Getoor
+Locality-sensitive hashing
+Logic learning machine
+Long short-term memory
+Loss function
+MIMIC (immunology)
+MIT Cog project
+MXNet
+Machine Intelligence Research Institute
+Machine learning
+Machine perception
+Machine translation
+Mamba (deep learning architecture)
+Manifold regularization
+Marc Raibert
+Marcus Hutter
+Margin classifier
+Margin-infused relaxed algorithm
+Markov information source
+Massive Online Analysis
+Mathematics and artificial intelligence
+Mathematics for Machine Learning
+Mean shift
+Measurement invariance
+Mechanism design
+Melomics
+Memory of the World Programme
+Memtransistor
+Metadata
+Metaheuristic
+Michael Kearns (computer scientist)
+Microsoft Cognitive Toolkit
+Mind
+MindSpore
+Mindpixel
+Mixture model
+Mixture of experts
+Monitoring and Surveillance Agents
+Moral graph
+Moravec's paradox
+MuZero
+Multi-label classification
+Multi-layer perceptron
+Multifactor dimensionality reduction
+Multilinear subspace learning
+Multinomial logistic regression
+Multiple factor analysis
+Multiple sequence alignment
+Multivariate adaptive regression splines
+Mycroft (software)
+Named-entity recognition
+Natural evolution strategy
+Natural-language understanding
+Nearest neighbor (pattern recognition)
+Neats and scruffies
+Nest Labs
+Netflix
+Networked control system
+Neural Computation (journal)
+Neural machine translation
+Neuroevolution
+Neuromorphic computing
+Never-Ending Language Learning
+Non-monotonic logic
+Norbert Wiener
+OCLC (identifier)
+Oasis (Minecraft clone)
+Oliver Selfridge
+Ontology (information science)
+OpenAI
+OpenCog
+Optimal discriminant analysis
+Out-of-bag error
+PAC learning
+PageRank
+Parity learning
+Pattern language (formal languages)
+Paul Werbos
+Permutation City
+Person of Interest (TV series)
+Philosophy of AI
+Philosophy of mind
+Physical AI
+Pipeline Pilot
+Piranha (software)
+Polynomial kernel
+Population process
+Post-training of large language models
+Precautionary principle
+Predictive learning
+Predictive state representation
+Preference learning
+Prefrontal cortex basal ganglia working memory
+Principal component regression
+Prior knowledge for pattern recognition
+Prisma (app)
+Probabilistic classifier
+Progress in artificial intelligence
+Proximal gradient methods for learning
+Pruning (decision trees)
+Qloo
+Question answering
+Quickprop
+R (programming language)
+Rada Mihalcea
+Random indexing
+Random sample consensus
+Randy Goebel
+RapidMiner
+Receiver operating characteristic
+Regression analysis
+Reinforcement Learning
+Relevance based learning
+Representer theorem
+Reservoir computing
+RoboEarth
+Robot rights
+Robot series (Asimov)
+Ross Quinlan
+Rules extraction system family
+S2CID (identifier)
+Santa Fe Trail problem
+Search algorithm
+Self-Service Semantic Suite
+Self-driving car
+Semi-supervised learning
+Semidefinite embedding
+Sensorium Project
+Sequence labeling
+Sigmoid function
+Silhouette (clustering)
+Simple matching coefficient
+Simultaneous localization and mapping
+Soar (cognitive architecture)
+SolveIT Software
+Sora (text-to-video model)
+Sovereign AI
+Speaker for the Dead
+Speech emotion recognition
+Speech generating device
+Speech recognition
+Stacked Auto-Encoders
+Statistical learning theory
+Steve Omohundro
+Stochastic cellular automaton
+Structured sparsity regularization
+Sukhotin's algorithm
+Superintelligence
+Supervised learning
+Symbolic regression
+Syntactic pattern recognition
+Tanagra (machine learning)
+Terminator (character)
+The Oracle (The Matrix)
+Topic model
+Tournament selection
+Training, validation, and test data sets
+Transduction (machine learning)
+Transformer (deep learning)
+Transhumanism
+Trigram tagger
+Truncation selection
+Uniform convergence in probability
+Unique negative dimension
+Unsupervised learning
+Variable rules analysis
+Variable-order Bayesian network
+Vector Quantization
+Version space learning
+Vicarious (company)
+Viv (software)
+Vowpal Wabbit
+WPGMA
+Wake-sleep algorithm
+Ward's method
+Weight initialization
+Weka (machine learning)
+What Computers Can't Do
+Win–stay, lose–switch
+Wolfram Language
+Writer invariant
+Xenocide
+Zeroth (software)

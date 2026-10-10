@@ -1,0 +1,10 @@
+# Tested with Python 3.13 and the versions in comments. Needs Python 3.10+.
+fastapi>=0.115        # 0.143.0
+pydantic>=2.7         # 2.13.5
+uvicorn>=0.30         # 0.53.0
+requests>=2.31        # 2.34.2
+numpy>=1.26           # 2.5.3
+scikit-learn>=1.4     # 1.9.1
+# tests only
+httpx>=0.27
+pytest>=8
